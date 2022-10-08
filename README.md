@@ -2,7 +2,9 @@
 Website for display food menu
 
 ### WEB PREVIEW
-![image](https://user-images.githubusercontent.com/104220305/194709485-3b50c178-f76f-4359-bc2a-0672b36ea5ec.png)
+
+![image](https://user-images.githubusercontent.com/104220305/194709605-17cfb02b-e6b5-4670-8803-99396d6deae9.png)
+
 
 ![image](https://user-images.githubusercontent.com/104220305/194709514-9f22eba6-1838-4d10-af93-e5ac3d5769a0.png)
 
